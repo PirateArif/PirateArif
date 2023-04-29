@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to Pir@te H@X!</h1>
 <h3 align="center">a person who has been learning programming and network security for about 10 years, and I am getting more and more interested. Here I will share with you the programs that I am working on And I hope you find it useful And I'll be happy for you to share your experiences with me!</h3>
-<p align="left"> <a href="https://twitter.com/piratearif" target="blank"><img src="https://img.shields.io/twitter/follow/xno1n?logo=twitter&style=for-the-badge" alt="xno1n" /></a> </p>
+<p align="left"> <a href="https://twitter.com/piratearif" target="blank"><img src="https://img.shields.io/twitter/follow/pirate?logo=twitter&style=for-the-badge" alt="xno1n" /></a> </p>
 
 - 🔭 I’m currently working on [Blocke](https://github.com/piratearif/Blocke)
 
